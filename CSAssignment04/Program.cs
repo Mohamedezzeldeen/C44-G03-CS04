@@ -204,6 +204,33 @@ namespace CSAssignment04
             //    Console.WriteLine("Invalid input!");
 
             #endregion
+
+            #region Q10Create a program that asks the user to input three points (x1, y1), (x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
+
+            //Console.Write("Enter x1: ");
+            //double x1 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y1: ");
+            //double y1 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Enter x2: ");
+            //double x2 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y2: ");
+            //double y2 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Enter x3: ");
+            //double x3 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y3: ");
+            //double y3 = double.Parse(Console.ReadLine());
+
+            //double slope1 = (y2 - y1) / (x2 - x1);
+            //double slope2 = (y3 - y2) / (x3 - x2);
+
+            //if (slope1 == slope2)
+            //    Console.WriteLine("The points lie on the same straight line.");
+            //else
+            //    Console.WriteLine("The points do NOT lie on the same straight line.");
+
+            #endregion
         }
     }
 }
