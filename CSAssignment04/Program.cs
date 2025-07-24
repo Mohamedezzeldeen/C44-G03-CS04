@@ -1,4 +1,5 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace CSAssignment04
 {
@@ -145,6 +146,51 @@ namespace CSAssignment04
             //}
 
 
+
+
+            #endregion
+
+            #region Q8- Write a program in C# Sharp to find prime numbers within a range of numbers.
+
+            //Console.Write("Input starting number of range: ");
+            //bool Flag1 = int.TryParse(Console.ReadLine(), out int start);
+
+            //Console.Write("Input ending number of range: ");
+            //bool Flag2 = int.TryParse(Console.ReadLine(), out int end);
+
+
+            //if (Flag1 && Flag2)
+            //{
+            //    for (int num = start; num <= end; num++)
+            //    {
+            //        bool isPrime = true;
+
+            //        if (num < 2)
+            //        {
+            //            isPrime = false;
+            //        }
+            //        else
+            //        {
+            //            for (int i = 2; i <= num / 2; i++)
+            //            {
+            //                if (num % i == 0)
+            //                {
+            //                    isPrime = false;
+            //                    break;
+            //                }
+            //            }
+            //        }
+
+            //        if (isPrime)
+            //        {
+            //            Console.Write(num + " ");
+            //        }
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input! Please enter valid integers.");
+            //}
 
 
             #endregion
