@@ -1,4 +1,6 @@
-﻿namespace CSAssignment04
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace CSAssignment04
 {
     internal class Program
     {
@@ -79,11 +81,11 @@
             //bool Flage01 = int.TryParse(Console.ReadLine(), out int Num01);
             //Console.Write("Enter The Second Subject : ");
             //bool Flage02 = int.TryParse(Console.ReadLine(), out int Num02);
-            //Console.Write("Enter The Second Subject : ");
+            //Console.Write("Enter The Third Subject : ");
             //bool Flage03 = int.TryParse(Console.ReadLine(), out int Num03);
-            //Console.Write("Enter The Second Subject : ");
+            //Console.Write("Enter The Forth Subject : ");
             //bool Flage04 = int.TryParse(Console.ReadLine(), out int Num04);
-            //Console.Write("Enter The Second Subject : ");
+            //Console.Write("Enter The Fifth Subject : ");
             //bool Flage05 = int.TryParse(Console.ReadLine(), out int Num05);
             //int Sum;
             //int Avg;
@@ -121,6 +123,29 @@
             //}
 
             //Console.WriteLine();
+
+            #endregion
+
+            #region Q7- Write a program to allow the user to enter int and print the REVERSED of it.
+
+            //Console.Write("Enter The First Subject : ");
+            //bool Flage01 = int.TryParse(Console.ReadLine(), out int Num01);
+
+            //if (Flage01) 
+            //{
+            //    int reversed = 0;
+
+            //    while (Num01 != 0)
+            //    {
+            //        int digit = Num01 % 10;      
+            //        reversed = reversed * 10 + digit;
+            //        Num01 = Num01 / 10;          
+            //    }
+            //    Console.WriteLine($"Reversed number: {reversed}");
+            //}
+
+
+
 
             #endregion
         }
