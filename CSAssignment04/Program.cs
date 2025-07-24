@@ -231,6 +231,27 @@ namespace CSAssignment04
             //    Console.WriteLine("The points do NOT lie on the same straight line.");
 
             #endregion
-        }
+
+
+            #region Q11- . Write a program that prints an identity matrix using for loop, in other words takes a value n from the user and shows the identity table of size n * n.
+
+            //Console.Write("Enter the size of the matrix (n): ");
+            //int n = int.Parse(Console.ReadLine());
+
+            //for (int row = 0; row < n; row++)
+            //{
+            //    for (int col = 0; col < n; col++)
+            //    {
+            //        if (row == col)
+            //            Console.Write("1 ");
+            //        else
+            //            Console.Write("0 ");
+            //    }
+            //    Console.WriteLine();
+            //}
+                #endregion
+
+
+            }
     }
 }
