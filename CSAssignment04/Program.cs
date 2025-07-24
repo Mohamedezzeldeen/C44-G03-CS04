@@ -55,6 +55,24 @@
             //}
 
             #endregion
+
+            #region Q4- Write a program that takes two integers then prints the power.
+            //Console.Write("Enter The First Number : ");
+            //bool Flage01 = int.TryParse(Console.ReadLine(), out int Num01);
+            //Console.Write("Enter The Second Number : ");
+            //bool Flage02 = int.TryParse(Console.ReadLine(), out int Num02);
+            //int Power = 1;
+            //if (Flage01 && Flage02) 
+            //{
+            //    for (int i = 0; i < Num02; i++)
+            //    {
+            //        Power *= Num01;
+            //    }
+            //    Console.WriteLine(Power);
+            //}
+
+
+            #endregion
         }
     }
 }
