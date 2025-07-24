@@ -73,6 +73,41 @@
 
 
             #endregion
+
+            #region Q5- Write a program to enter marks of five subjects and calculate total, average and percentage.
+            //Console.Write("Enter The First Subject : ");
+            //bool Flage01 = int.TryParse(Console.ReadLine(), out int Num01);
+            //Console.Write("Enter The Second Subject : ");
+            //bool Flage02 = int.TryParse(Console.ReadLine(), out int Num02);
+            //Console.Write("Enter The Second Subject : ");
+            //bool Flage03 = int.TryParse(Console.ReadLine(), out int Num03);
+            //Console.Write("Enter The Second Subject : ");
+            //bool Flage04 = int.TryParse(Console.ReadLine(), out int Num04);
+            //Console.Write("Enter The Second Subject : ");
+            //bool Flage05 = int.TryParse(Console.ReadLine(), out int Num05);
+            //int Sum;
+            //int Avg;
+            //double Perc;
+
+            //if (Flage01 && Flage02 && Flage03 && Flage04 && Flage05) 
+            //{
+            //    Sum = Num01 + Num02 + Num03 + Num04 + Num05;
+            //    Avg = Sum / 5;
+            //    Perc = (Sum / 500.0) * 100;
+
+            //    Console.WriteLine($"Total Marks = {Sum}");
+            //    Console.WriteLine($"Average Marks = {Avg}");
+            //    Console.WriteLine($"Percentage = {Perc}%");
+            //}
+
+
+
+
+
+
+
+
+            #endregion
         }
     }
 }
