@@ -108,6 +108,21 @@
 
 
             #endregion
+
+            #region Q6- Write a program to allow the user to enter a string and print the REVERSE of it.
+
+            //Console.Write("Enter String: ");
+            //string TheString = Console.ReadLine();
+
+            //Console.Write("Reversed String: ");
+            //for (int i = TheString.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write(TheString[i]);
+            //}
+
+            //Console.WriteLine();
+
+            #endregion
         }
     }
 }
